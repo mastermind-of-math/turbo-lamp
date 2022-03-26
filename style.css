@@ -1,0 +1,28 @@
+body
+{
+    text-align: center;
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+#myCarousel
+{
+    background-color:aliceblue;
+    margin-bottom: 80px;
+}
+#myCarousel p{
+    font-size: 40px;
+    margin-top: 30px;
+    font-family: monospace;
+    margin-bottom: 40px;
+}
+#myCarousel img{
+    margin-top: 40px;
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+}
+
+
